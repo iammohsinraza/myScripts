@@ -1,0 +1,48 @@
+//*[@id="cat-1411"]                 Mobiles
+//*[@id="cat-99"]					Electronic and appliances
+//*[@id="cat-5"]					Vehicles
+//*[@id="cat-1898"]					Bikes
+//*[@id="cat-2"]					Property for Sale
+//*[@id="cat-3"]					Property for Rent
+//*[@id="cat-4"]					Jobs
+//*[@id="cat-619"]					Services
+//*[@id="cat-1981"]					Business, Industrial & Agriculture	
+//*[@id="cat-628"]					Furniture and Home decor
+//*[@id="cat-103"]					Animals
+//*[@id="cat-767"]					Books and Sports
+//*[@id="cat-87"]					Fashion and Beauty
+//*[@id="cat-88"]					Kids
+
+
+
+
+Mobiles sub cat:
+	mobile = '//*[@id="category-1411"]/div[2]/div[2]/div/ul/li[1]/a'
+Mobiles sub2:
+	qmobile='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[1]/a'	
+	samsung='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[2]/a'	 
+	apple='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[3]/a'	apple 
+	nokia='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[4]/a'	nokia 
+	lg='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[5]/a'	lg 
+	huawei='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[6]/a'	huawei 
+	sony='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[7]/a'	sony 
+	sonyericsson='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[8]/a'	sony Ericsson 
+	htc='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[9]/a'	htc 
+	motorola='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[10]/a'	motorola 
+	oppo='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[11]/a'	oppo 
+	lenovo='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[12]/a'	lenovo 
+	haier='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[13]/a'	haier 
+	rive='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[14]/a'	rivo 
+	blackberry='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[15]/a'	blackBerry 
+	mobilink='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[16]/a'	mobilink_jazzX 
+	voice='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[17]/a'	voice 
+	alcatel='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[18]/a'	alcatel 
+	xioami='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[19]/a'	xioami 
+	infinix='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[20]/a'	infinix 
+	calme='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[21]/a'	calme 
+	gright='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[22]/a'	gright 
+	gfive='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[23]/a'	gfive 
+	club='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[24]/a'	club 
+	inew='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[25]/a'	inew 
+	othermobiles='//*[@id="category-1453"]/div[2]/div[2]/div/ul/li[26]/a'	other_mobiles 
+			
