@@ -1,0 +1,7 @@
+email =>princemohsin422@yahoo.com
+pass =>saad1234678
+image folder location =>F:\Web scraping\olx add pics\
+browser driver location=>F:/My Own Softwares/browser_driver/chromedriver.exe
+Add info file name =>title.txt
+descripthon =>Contact us for more details
+Max Pic Number =>10
