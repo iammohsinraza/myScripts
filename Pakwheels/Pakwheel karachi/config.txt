@@ -1,0 +1,4 @@
+url ======>https://www.pakwheels.com/used-cars/karachi/24857
+start======>430
+end========>429
+save file name======>karachi all 1_457.txt
